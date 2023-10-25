@@ -1,0 +1,12 @@
+C:\Users\beybl\Desktop\CSC301\MemberShipFeeCalculator\MemberShipFeeCalculator\MemberShipFeeCalculator\bin\Debug\MemberShipFeeCalculator.exe.config
+C:\Users\beybl\Desktop\CSC301\MemberShipFeeCalculator\MemberShipFeeCalculator\MemberShipFeeCalculator\bin\Debug\MemberShipFeeCalculator.exe
+C:\Users\beybl\Desktop\CSC301\MemberShipFeeCalculator\MemberShipFeeCalculator\MemberShipFeeCalculator\bin\Debug\MemberShipFeeCalculator.pdb
+C:\Users\beybl\Desktop\CSC301\MemberShipFeeCalculator\MemberShipFeeCalculator\MemberShipFeeCalculator\bin\Debug\MemberShipFeeCalculator.xml
+C:\Users\beybl\Desktop\CSC301\MemberShipFeeCalculator\MemberShipFeeCalculator\MemberShipFeeCalculator\obj\Debug\MemberShipFeeCalculator.vbproj.AssemblyReference.cache
+C:\Users\beybl\Desktop\CSC301\MemberShipFeeCalculator\MemberShipFeeCalculator\MemberShipFeeCalculator\obj\Debug\MemberShipFeeCalculator.Form1.resources
+C:\Users\beybl\Desktop\CSC301\MemberShipFeeCalculator\MemberShipFeeCalculator\MemberShipFeeCalculator\obj\Debug\MemberShipFeeCalculator.Resources.resources
+C:\Users\beybl\Desktop\CSC301\MemberShipFeeCalculator\MemberShipFeeCalculator\MemberShipFeeCalculator\obj\Debug\MemberShipFeeCalculator.vbproj.GenerateResource.cache
+C:\Users\beybl\Desktop\CSC301\MemberShipFeeCalculator\MemberShipFeeCalculator\MemberShipFeeCalculator\obj\Debug\MemberShipFeeCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\beybl\Desktop\CSC301\MemberShipFeeCalculator\MemberShipFeeCalculator\MemberShipFeeCalculator\obj\Debug\MemberShipFeeCalculator.exe
+C:\Users\beybl\Desktop\CSC301\MemberShipFeeCalculator\MemberShipFeeCalculator\MemberShipFeeCalculator\obj\Debug\MemberShipFeeCalculator.xml
+C:\Users\beybl\Desktop\CSC301\MemberShipFeeCalculator\MemberShipFeeCalculator\MemberShipFeeCalculator\obj\Debug\MemberShipFeeCalculator.pdb
